@@ -1,0 +1,15 @@
+.button {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+}
+.textarea {
+    background: beige;
+    width: 204px;
+    padding: 10px;
+    color: rgb(0, 0, 0);
+}
+.main {
+    position: absolute;
+    background: rgb(178, 141, 213);
+}
